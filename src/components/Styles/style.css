@@ -1,0 +1,19 @@
+.nav-box{
+    width: 200px;
+    height: 50px;
+    border-bottom:  3px solid rgb(158 158 158 / 0%);
+    cursor: pointer;
+}
+.nav-box:hover{
+    color: #5463ca;
+}
+.nav-box-text{
+    color: black;
+    font-size: 23px;
+    display: flex;
+    justify-content: center;
+    font-family :monospace;
+}
+.nav-box-text:hover{
+    color: #5463ca;
+}

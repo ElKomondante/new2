@@ -1,0 +1,17 @@
+.body-homepage{
+    width: 100%;
+    height: 100%;
+    background-color:#2436a7;
+    margin: 0;
+    padding: 0;
+    height: 1000px;
+    display: flex;
+}
+.title-homepage{
+    font-size: 80px;
+    color: white;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    margin-top: 420px;
+}
