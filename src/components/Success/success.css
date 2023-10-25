@@ -1,0 +1,67 @@
+.body{
+    width: 100%;
+    margin: auto;
+    background-color: rgb(237, 237, 237);
+    margin-bottom: 50px;
+}
+.header{
+    width: 100%;
+    height: 60px;
+}
+.title{
+    width: 70%;
+    height: 150px;
+    margin: auto;
+    margin-top: 50px;
+}
+.content{
+    width: 50%;
+    height: 250px;
+    margin: auto;
+    box-shadow: 0px 5px 10px 0px rgba(114, 114, 114, 0.7); 
+    box-shadow: 0px 1px 2px 0px rgba(114, 114, 114, 0.7),
+            1px 2px 4px 0px rgba(114, 114, 114, 0.7),
+            2px 4px 8px 0px rgba(114, 114, 114, 0.7),
+            2px 4px 16px 0px rgba(114, 114, 114, 0.7);
+    margin-top: 120px;
+    padding: 30px;
+}
+.footer{
+    text-align: center;
+    width: 100%;
+    height: 70px;
+    margin-top: 250px;
+    align-items: center;
+    display: flex;
+    border: 1px solid gainsboro;
+}
+.h4{
+    color: darkslategrey;;
+}
+.h2{
+    font-size: 60px;
+}
+.h4-content{
+    font-size: 20px;
+    color: darkslategrey;
+    height: 10px;
+}
+.button{
+    width: 90%;
+    height: 55px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    background-color:#2436a7;
+    color: white;
+    font-size: 16px;
+    margin-top: 100px;
+    outline: none;
+    border: none;
+}
+.footer-content{
+    width: 50%;
+    background-color: rgb(237, 237, 237);
+}
